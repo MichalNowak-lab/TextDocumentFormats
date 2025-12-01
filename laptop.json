@@ -1,0 +1,10 @@
+{
+  "brand": "Dell",
+  "model": "Inspiron 15",
+  "year": 2023,
+  "isTouchscreen": false,
+  "devices": ["touchpad","webcam"],
+  "graphics":"Integrated: Intel® UHD Graphics, Intel® Iris® Xe Graphics",
+  "display": "15.6-inch, FHD, 1920 x 1080, 120 Hz",
+  "opticalDrive": "No Optical Drive"
+}

@@ -1,0 +1,13 @@
+{
+  "Type": "Train ticket",
+  "From": "Paris",
+  "To": "London",
+  "Date": 12.05,
+  "Departure": "14:30",
+  "Arrive": "16:50",
+  "Carrige": 4,
+  "platform": 3,
+  "seat": "A18",
+  "Train": 3924,
+  "price": 45
+}

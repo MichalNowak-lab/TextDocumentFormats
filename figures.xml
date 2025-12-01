@@ -26,13 +26,15 @@
 	<figure>
 		<name>Sphere</name>
 		<type>3D</type>
-		<properties>Shape</properties>
-		<properties>Surface</properties>
-		<properties>Symmetry</properties>
-		<properties>Edges</properties>
-		<properties>Vertices</properties>
-		<properties>Radius</properties>
-		<properties>Polyhedron</properties>
+		<properties>
+            <property>Shape</property>
+		    <property>Surface</property>
+		    <property>Symmetry</property>
+		    <property>Edges</property>
+		    <property>Vertices</property>
+		    <property>Radius</property>
+		    <property>Polyhedron</property>
+        </properties>
 		<formulas>
 			<area>4π*r**2</area>
 			<volume>4/3πr**3</volume>

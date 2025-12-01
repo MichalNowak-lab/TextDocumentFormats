@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <public>
+        <price>Affordable</price>
+        <comfort>decent</comfort>
+        <fuelPrice currency="'PLN">0</fuelPrice>
+        <maintanace currency = 'PLN'>0</maintanace>
+
+    </public>
+    <car>
+        <price>Expensive</price>
+        <comfort>very good</comfort>
+        <fuelPrice currency="'PLN">300-400</fuelPrice>
+        <maintanace currency = 'PLN'>3000/y</maintanace>
+    </car>
+    <bike>
+        <price>cheap</price>
+        <comfort>below decent</comfort>
+        <fuelPrice currency="'PLN">0</fuelPrice>
+        <maintanace currency = 'PLN'>200/y</maintanace>
+    </bike>
+</transport>
